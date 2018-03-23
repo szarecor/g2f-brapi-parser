@@ -1,0 +1,758 @@
+[
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "AZI1",
+         "type": "Field Trial",
+         "name": "Willco, AZ",
+         "abbreviation": "Willco",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 32.0345825,
+         "longitude": -109.69243
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "AZI2",
+         "type": "Field Trial",
+         "name": "Willco, AZ",
+         "abbreviation": "Willco",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 32.03504475,
+         "longitude": -109.69249175
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "PAI1",
+         "type": "Field Trial",
+         "name": "University Park, PA",
+         "abbreviation": "University Park",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 40.710218000000005,
+         "longitude": -77.95275175
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "PAI2",
+         "type": "Field Trial",
+         "name": "University Park, PA",
+         "abbreviation": "University Park",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 40.710218000000005,
+         "longitude": -77.95275175
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "DEH1",
+         "type": "Field Trial",
+         "name": "Georgetown, DE",
+         "abbreviation": "Georgetown",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 38.62935675,
+         "longitude": -75.4656925
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "DEI1",
+         "type": "Field Trial",
+         "name": "Newark, DE",
+         "abbreviation": "Newark",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 39.67040175,
+         "longitude": -75.74985525
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "GAH1",
+         "type": "Field Trial",
+         "name": "Tifton, GA",
+         "abbreviation": "Tifton",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 31.505771,
+         "longitude": -83.555095
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "GAI1",
+         "type": "Field Trial",
+         "name": "Tifton, GA",
+         "abbreviation": "Tifton",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 31.507793,
+         "longitude": -83.5555845
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH1",
+         "type": "Field Trial",
+         "name": "Am, IA",
+         "abbreviation": "Am",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 41.99809519750001,
+         "longitude": -93.69336972500001
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH2",
+         "type": "Field Trial",
+         "name": "Carrol, IA",
+         "abbreviation": "Carrol",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 0.0,
+         "longitude": 0.0
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH3",
+         "type": "Field Trial",
+         "name": "Keyston, IA",
+         "abbreviation": "Keyston",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 41.975856285000006,
+         "longitude": -92.24291804
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH4",
+         "type": "Field Trial",
+         "name": "Crawfordsvill, IA",
+         "abbreviation": "Crawfordsvill",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 41.1997096125,
+         "longitude": -91.49362406
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI1",
+         "type": "Field Trial",
+         "name": "Am, IA",
+         "abbreviation": "Am",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 42.0164645,
+         "longitude": -93.76883000000001
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI2",
+         "type": "Field Trial",
+         "name": "Am, IA",
+         "abbreviation": "Am",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 42.0133235,
+         "longitude": -93.7890415
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI3",
+         "type": "Field Trial",
+         "name": "Am, IA",
+         "abbreviation": "Am",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 42.004563625,
+         "longitude": -93.66428025500001
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI4",
+         "type": "Field Trial",
+         "name": "Am, IA",
+         "abbreviation": "Am",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 42.04501573,
+         "longitude": -93.70608853
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILH1",
+         "type": "Field Trial",
+         "name": "Urban, IL",
+         "abbreviation": "Urban",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 40.05982425,
+         "longitude": -88.23397575
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILI1",
+         "type": "Field Trial",
+         "name": "Urban, IL",
+         "abbreviation": "Urban",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 40.059411250000004,
+         "longitude": -88.2335265
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILH2",
+         "type": "Field Trial",
+         "name": "Urban, IL",
+         "abbreviation": "Urban",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 40.085005,
+         "longitude": -88.225185
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "INH1",
+         "type": "Field Trial",
+         "name": "West Lafayett, IN",
+         "abbreviation": "West Lafayett",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 40.477075,
+         "longitude": -87.000205
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "INI1",
+         "type": "Field Trial",
+         "name": "West Lafayett, IN",
+         "abbreviation": "West Lafayett",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 40.4770675,
+         "longitude": -86.9998025
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "KSH1",
+         "type": "Field Trial",
+         "name": "Manhattan, KS",
+         "abbreviation": "Manhattan",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 39.216417750000005,
+         "longitude": -96.60482225
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "KSI1",
+         "type": "Field Trial",
+         "name": "Manhattan, KS",
+         "abbreviation": "Manhattan",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 39.217406,
+         "longitude": -96.60579824999999
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MNH1",
+         "type": "Field Trial",
+         "name": "Wasec, MN",
+         "abbreviation": "Wasec",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 44.07038575,
+         "longitude": -93.53519625
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MNI1",
+         "type": "Field Trial",
+         "name": "Saint Paul, MN",
+         "abbreviation": "Saint Paul",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 44.994362,
+         "longitude": -93.17457200000001
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOH1",
+         "type": "Field Trial",
+         "name": "Columbi, MO",
+         "abbreviation": "Columbi",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 38.8965375,
+         "longitude": -92.208004165
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOH2",
+         "type": "Field Trial",
+         "name": "Columbi, MO",
+         "abbreviation": "Columbi",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 38.898079165,
+         "longitude": -92.2079
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOI1",
+         "type": "Field Trial",
+         "name": "Columbi, MO",
+         "abbreviation": "Columbi",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 38.8963291675,
+         "longitude": -92.2088291675
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOI2",
+         "type": "Field Trial",
+         "name": "Columbi, MO",
+         "abbreviation": "Columbi",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 38.897533332500004,
+         "longitude": -92.2079208325
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NCI1",
+         "type": "Field Trial",
+         "name": "Clayton, NC",
+         "abbreviation": "Clayton",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 35.66527775,
+         "longitude": -78.50659125
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NCH1",
+         "type": "Field Trial",
+         "name": "Kinston, NC",
+         "abbreviation": "Kinston",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 35.296577084999996,
+         "longitude": -77.5664625
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH2",
+         "type": "Field Trial",
+         "name": "North Platt, NE",
+         "abbreviation": "North Platt",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 41.051449500000004,
+         "longitude": -100.7471915
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH3",
+         "type": "Field Trial",
+         "name": "Brul, NE",
+         "abbreviation": "Brul",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 41.15824525,
+         "longitude": -101.98729575000002
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH1",
+         "type": "Field Trial",
+         "name": "Mead, NE",
+         "abbreviation": "Mead",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 41.290979,
+         "longitude": -96.41664325
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH4",
+         "type": "Field Trial",
+         "name": "Mead, NE",
+         "abbreviation": "Mead",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 41.16732275,
+         "longitude": -96.41663225
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYH2",
+         "type": "Field Trial",
+         "name": "Auror, NY",
+         "abbreviation": "Auror",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 42.732482499999996,
+         "longitude": -76.65277775
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYH3",
+         "type": "Field Trial",
+         "name": "Auror, NY",
+         "abbreviation": "Auror",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 42.7233625,
+         "longitude": -76.6555945
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYI2",
+         "type": "Field Trial",
+         "name": "Auror, NY",
+         "abbreviation": "Auror",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 42.723784,
+         "longitude": -76.6575425
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYH1",
+         "type": "Field Trial",
+         "name": "Auror, NY",
+         "abbreviation": "Auror",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 0.0,
+         "longitude": 0.0
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYI1",
+         "type": "Field Trial",
+         "name": "Auror, NY",
+         "abbreviation": "Auror",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 0.0,
+         "longitude": 0.0
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "OHH1",
+         "type": "Field Trial",
+         "name": "South Charleston, OH",
+         "abbreviation": "South Charleston",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 39.855785,
+         "longitude": -83.66477375000001
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ONH2",
+         "type": "Field Trial",
+         "name": "Ridgetown, ON",
+         "abbreviation": "Ridgetown",
+         "countryCode": "CAN",
+         "countryName": "Canada",
+         "latitude": 42.454086249999996,
+         "longitude": -81.8816065
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ONH1",
+         "type": "Field Trial",
+         "name": "Waterloo, ON",
+         "abbreviation": "Waterloo",
+         "countryCode": "CAN",
+         "countryName": "Canada",
+         "latitude": 43.49741975,
+         "longitude": -80.44806025
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "SDH1",
+         "type": "Field Trial",
+         "name": "New Underwood, SD",
+         "abbreviation": "New Underwood",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 44.208745,
+         "longitude": -102.928745
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "SDI1",
+         "type": "Field Trial",
+         "name": "New Underwood, SD",
+         "abbreviation": "New Underwood",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 0.0,
+         "longitude": 0.0
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXH1",
+         "type": "Field Trial",
+         "name": "College Station, TX",
+         "abbreviation": "College Station",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 30.54708625,
+         "longitude": -96.43393475
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXI1",
+         "type": "Field Trial",
+         "name": "College Station, TX",
+         "abbreviation": "College Station",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 30.547276500000002,
+         "longitude": -96.4331835
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXI2",
+         "type": "Field Trial",
+         "name": "College Station, TX",
+         "abbreviation": "College Station",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 30.551540250000002,
+         "longitude": -96.43456675
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXH2",
+         "type": "Field Trial",
+         "name": "?, TX",
+         "abbreviation": "?",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 0.0,
+         "longitude": 0.0
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXI3",
+         "type": "Field Trial",
+         "name": "?, TX",
+         "abbreviation": "?",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 0.0,
+         "longitude": 0.0
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WIH1",
+         "type": "Field Trial",
+         "name": "Veron, WI",
+         "abbreviation": "Veron",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 43.05511725,
+         "longitude": -89.528525
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WIH2",
+         "type": "Field Trial",
+         "name": "Arlington, WI",
+         "abbreviation": "Arlington",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 43.326448500000005,
+         "longitude": -89.33359975
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WII1",
+         "type": "Field Trial",
+         "name": "Veron, WI",
+         "abbreviation": "Veron",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 43.05628,
+         "longitude": -89.5284375
+      }
+   },
+   {
+      "model": "jsonapi.Location",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WII2",
+         "type": "Field Trial",
+         "name": "Arlington, WI",
+         "abbreviation": "Arlington",
+         "countryCode": "USA",
+         "countryName": "United States",
+         "latitude": 43.326474250000004,
+         "longitude": -89.3324245
+      }
+   }
+]
