@@ -1,0 +1,7 @@
+**GBS data for year 2015 are identical to 2014 because no new inbred lines were 
+introduced to the project for 2015**
+
+To access the genotypic data and metadata descriptions relevant to the 2015 
+dataset, go to this DOI: 
+
+http://dx.doi.org/10.7946/P2201Q sub-directory b._2014_gbs_data

@@ -1,0 +1,66 @@
+G2F 2015 Soil Data
+
+Table 16.
+Data Columns in 2015 GxE Soil Data.csv file.
+
+Column Name            | Column Description
+-----------------------|-------------------------------------------------------
+LabID                  | The name of the soil test lab who calculated the
+                       | results
+                       |
+LabSmplId              | Internal ID number assigned sample by the testing
+                       | center.
+                       |
+SmplDate               | The date the sample was analyzed by the lab.
+                       |
+                       | 
+CoopName               | The cooperator's name associated to the field 
+                       | experiment.
+                       | 
+Experiment             | G2F experiment identification.
+                       | 
+PlowDepth              | A variable used by the lab to calculate soil lime 
+                       | needs that covers most field tillage operations.
+                       |
+PH                     | Soil PH determined by this procedure:
+                       | Pepare a 1:1 soil to water mixture and measure the pH
+                       | with a glass electrode.
+                       |
+Buffer pH (BpH)        | Sikora buffer pH calculated by this procedure:
+                       | Prepare a 1:1:1 soil to water to Sikora buffer mixture
+                       | and measure the pH with a glass electrode.
+                       |
+Organic matter (OM)    | Soil organic matter expressed in percent, and 
+                       | calculated by this procedure:
+                       | Loss of weight on ignition at 360°C for 2 hours. 
+                       | OM = 0.07 + 0.89(LOI)
+                       |                 (LOI = percent weight loss on ignition)
+Phosphorus (P)         | Phosphorus levels reported in parts per million (ppm)
+                       | and calculated by this procedure:
+                       | Extract with Bray 1, develop color, and measure
+                       | colorimetrically using a spectrophotometer. 
+                       |
+Potassium (K)          | Potassium levels reported in parts per million (ppm)
+                       | and calculated by this procedure:
+                       | Extract with Bray 1 and measure with atomic absorption,
+                       | flame photometer, or ICP-OES.
+                       | 
+
+Additional soil data analysis explanations can be found in this publication:
+ 
+Nutrient Application Guidelines for Field, Vegetable, and Fruit Crops in 
+Wisconsin (A2809) R-11-2012
+
+Copyright © 2012 
+
+Authors: 
+Carrie Laboski is associate professor of soil science and John Peters is 
+director of the University of Wisconsin–Madison soil testing labs in Madison and 
+Marshfield. Both hold joint appointments with the College of Agricultural and 
+Life Sciences, University of Wisconsin–Madison, and University of Wisconsin-
+Extension, Cooperative Extension. Cooperative Extension publications are subject
+to peer review.
+
+This publication is available on line:
+(http://learningstore.uwex.edu/assets/pdfs/A2809.pdf)
+

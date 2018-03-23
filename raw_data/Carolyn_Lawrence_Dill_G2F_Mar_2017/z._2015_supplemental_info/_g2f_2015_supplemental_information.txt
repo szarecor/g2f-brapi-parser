@@ -1,0 +1,145 @@
+G2F 2015 Supplemental Information
+
+Investigators compiled cooperator information by field, any field-level data
+(referred to as metadata), and irrigation dates into the following files:
+
+The contents of each file are detailed below:
+
+▶ g2f_2015_cooperator_list.csv
+    Contains the cooperator name, location, and weather station id for each
+    experiment.
+
+Column Name           | Column Description
+----------------------|--------------------------------------------------------
+Experiment            | Location code associated with the experiment
+                      |
+State                 | Experiment location 
+                      |
+Collaborator/PI       | The name of the collaborator and/or PI responsible
+                      | for the experiment
+                      |
+City of Experiment    | The town identified to be closest to the experiment
+   
+   
+▶ g2f_2015_field_irrigation.csv
+    Contains all irrigation dates and amounts by experiment. 
+
+Column Name           | Column Description
+----------------------|--------------------------------------------------------
+Experiment            | Location code associated with the experiment
+                      |
+Irrigation            | A (yes/no) response whether the experiment was irrigated
+/Fertigation          | or fertigated
+                      |
+Weather station       | A (yes/no) response whether the weather station readings
+documents irrigation? | recorded the amount of irrigation or fertigation
+
+    IF an experiment was irrigated/fertigated, the date of application and 
+    amounts are recorded in these columns:                                            
+Irrigation applications (if an experiment was irrigated or fertigated)
+Column Name           | Column Description
+----------------------|--------------------------------------------------------
+Irrigation dates      | Date of irrigation/fertigation
+                      |
+Amount (inches)       | Application amount in inches
+
+** please note that two experiments TXH1 and TXI1 are listed as irrigated, with
+   no irrigation quantities reported due to the adequate rainfall received 
+   through the growing season. 
+
+
+▶ g2f_2015_field_metadata.csv
+    Contains all field-level data such as field treatments, planter type,
+    previous crop, field corners, and weather station location.
+
+Column Name           | Column Description
+----------------------|--------------------------------------------------------
+Experiment            | Location code associated with the experiment
+                      |
+Type                  | Experiment identified as either Inbred or Hybrid
+                      |
+Treatment             | If an experiment is subject to additional treatments,
+                      | it's identified here
+                      |
+City                  | The town identified to be closest to the experiment
+                      |
+WS_SN                 | Weather station ID
+                      |
+WS Lat                | Weather station latitude
+                      |
+WS Lon                | Weather station longitude
+                      |
+DateIn                | Date the weather station was placed in the field
+                      |
+DateOut               | Date the weather station was removed from the field
+                      |
+Previous Crop         | Name of crop previously planted in this field
+                      |
+Tillage               | Tillage method, if any
+                      |
+PlotLen               | Plot length in feet
+                      |
+AlleyLen              | Alley length in inches
+                      |
+RowSp                 | Row spacing in inches
+                      |
+PlanterType           | Type of planter used
+                      |
+KernelsPerPlot        | Number of kernels planted per plot or number of seeds
+                      | per pack for cone planters
+                      |
+Moisture Meter        | Type or name of system used to determine grain moisture
+                      |
+LBS for  test         | Pounds of grain needed by the system for accurate
+                      | moisture measurement
+                      |
+corner1 lat           | Latitude of first corner (at plot #1)
+                      |
+corner1 lon           | Longitude of first corner (at plot #1)
+                      |
+corner 2lat           | Latitude of second corner in field
+                      |
+corner2 lon           | Longitude of second corner in field
+                      |
+corner3 lat           | Latitude of third corner in field
+                      |
+corner3 lon           | Longitude of third corner in field
+                      |
+corner4 lat           | Latitude of fourth corner in field
+                      |
+corner4 lon           | Longitude of fourth corner in field
+                      |
+Cardinal              | Cardinal heading of first pass (direction of 
+                      | pass 1 looking toward end of field)
+                      |
+date of soil sampling | Date soil sample was taken
+                      |
+preplant herb         | Pre-plant herbicide name and/or active ingredient
+                      |
+postplant herb        | Post-plant herbicide name and/or active ingredient
+                      |
+total N               | Total applied Nitrogen in pounds per acre
+                      |
+total P               | Total applied Phosphorus in pounds per acre
+                      |
+total K               | Total applied Potassium in pounds per acre
+                      |
+fert dates 1          | Date of first fertilizer application
+                      |
+fert dates 2          | Date of second fertilizer application
+                      |
+fert dates 3          | Date of third fertilizer application
+                      |
+fert dates 4          | Date of fourth fertilizer application
+                      |
+fert dates 5          | Date of fifth fertilizer application
+                      |
+fert dates 6          | Date of sixth fertilizer application
+                      |
+fert dates 7          | Date of seventh fertilizer application
+                      |
+fert dates 8          | Date of eighth fertilizer application
+                      |
+Type of Fert          | Name of fertilizer applied
+                      |
+Insecticide           | Name and/or active ingredient of insecticide applied
