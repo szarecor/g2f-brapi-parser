@@ -1,0 +1,884 @@
+[
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "AZI1",
+         "key": "weatherStationLatitude",
+         "value": "32.034726"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "AZI1",
+         "key": "weatherStationLongitude",
+         "value": "-109.692471"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "AZI2",
+         "key": "weatherStationLatitude",
+         "value": "32.034726"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "AZI2",
+         "key": "weatherStationLongitude",
+         "value": "-109.692471"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "PAI1",
+         "key": "weatherStationLatitude",
+         "value": "40.710182"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "PAI1",
+         "key": "weatherStationLongitude",
+         "value": "-77.95274"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "PAI2",
+         "key": "weatherStationLatitude",
+         "value": "40.710182"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "PAI2",
+         "key": "weatherStationLongitude",
+         "value": "-77.95274"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "DEH1",
+         "key": "weatherStationLatitude",
+         "value": "38.62932"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "DEH1",
+         "key": "weatherStationLongitude",
+         "value": "-75.465731"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "DEI1",
+         "key": "weatherStationLatitude",
+         "value": "39.670418"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "DEI1",
+         "key": "weatherStationLongitude",
+         "value": "-75.749907"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "GAH1",
+         "key": "weatherStationLatitude",
+         "value": "31.505161"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "GAH1",
+         "key": "weatherStationLongitude",
+         "value": "-83.55518"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "GAI1",
+         "key": "weatherStationLatitude",
+         "value": "31.507876"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "GAI1",
+         "key": "weatherStationLongitude",
+         "value": "-83.55518"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH1",
+         "key": "weatherStationLatitude",
+         "value": "41.99762"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH1",
+         "key": "weatherStationLongitude",
+         "value": "-93.69622"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH2",
+         "key": "weatherStationLatitude",
+         "value": "42.067505"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH2",
+         "key": "weatherStationLongitude",
+         "value": "-93.617996"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH3",
+         "key": "weatherStationLatitude",
+         "value": "41.97589"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH3",
+         "key": "weatherStationLongitude",
+         "value": "-92.24096"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH4",
+         "key": "weatherStationLatitude",
+         "value": "41.19938"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAH4",
+         "key": "weatherStationLongitude",
+         "value": "-91.49214"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI1",
+         "key": "weatherStationLatitude",
+         "value": "42.016411"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI1",
+         "key": "weatherStationLongitude",
+         "value": "-93.768742"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI2",
+         "key": "weatherStationLatitude",
+         "value": "42.013387"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI2",
+         "key": "weatherStationLongitude",
+         "value": "-93.789035"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI3",
+         "key": "weatherStationLatitude",
+         "value": "42.0045775"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI3",
+         "key": "weatherStationLongitude",
+         "value": "-93.66429081"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI4",
+         "key": "weatherStationLatitude",
+         "value": "42.04481481"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "IAI4",
+         "key": "weatherStationLongitude",
+         "value": "-93.70637413"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILH1",
+         "key": "weatherStationLatitude",
+         "value": "40.059337"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILH1",
+         "key": "weatherStationLongitude",
+         "value": "-88.234116"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILI1",
+         "key": "weatherStationLatitude",
+         "value": "40.059337"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILI1",
+         "key": "weatherStationLongitude",
+         "value": "-88.234116"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILH2",
+         "key": "weatherStationLatitude",
+         "value": "40.059337"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ILH2",
+         "key": "weatherStationLongitude",
+         "value": "-88.234116"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "INH1",
+         "key": "weatherStationLatitude",
+         "value": "40.47666"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "INH1",
+         "key": "weatherStationLongitude",
+         "value": "-87.0004"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "INI1",
+         "key": "weatherStationLatitude",
+         "value": "40.47666"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "INI1",
+         "key": "weatherStationLongitude",
+         "value": "-87.0004"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "KSH1",
+         "key": "weatherStationLatitude",
+         "value": "39.216975"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "KSH1",
+         "key": "weatherStationLongitude",
+         "value": "-96.605733"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "KSI1",
+         "key": "weatherStationLatitude",
+         "value": "39.216975"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "KSI1",
+         "key": "weatherStationLongitude",
+         "value": "-96.605733"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MNH1",
+         "key": "weatherStationLatitude",
+         "value": "44.070847"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MNH1",
+         "key": "weatherStationLongitude",
+         "value": "-93.535534"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MNI1",
+         "key": "weatherStationLatitude",
+         "value": "44.994356"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MNI1",
+         "key": "weatherStationLongitude",
+         "value": "-93.175422"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOH1",
+         "key": "weatherStationLatitude",
+         "value": "38.896247"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOH1",
+         "key": "weatherStationLongitude",
+         "value": "-92.208164"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOH2",
+         "key": "weatherStationLatitude",
+         "value": "38.896247"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOH2",
+         "key": "weatherStationLongitude",
+         "value": "-92.208164"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOI1",
+         "key": "weatherStationLatitude",
+         "value": "38.896247"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOI1",
+         "key": "weatherStationLongitude",
+         "value": "-92.208164"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOI2",
+         "key": "weatherStationLatitude",
+         "value": "38.896247"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "MOI2",
+         "key": "weatherStationLongitude",
+         "value": "-92.208164"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NCI1",
+         "key": "weatherStationLatitude",
+         "value": "35.665"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NCI1",
+         "key": "weatherStationLongitude",
+         "value": "-78.506083"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NCH1",
+         "key": "weatherStationLatitude",
+         "value": "35.29597778"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NCH1",
+         "key": "weatherStationLongitude",
+         "value": "-77.56711667"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH2",
+         "key": "weatherStationLatitude",
+         "value": "41.05136"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH2",
+         "key": "weatherStationLongitude",
+         "value": "-100.7463"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH3",
+         "key": "weatherStationLatitude",
+         "value": "41.158431"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH3",
+         "key": "weatherStationLongitude",
+         "value": "-101.988324"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH1",
+         "key": "weatherStationLatitude",
+         "value": "41.159394"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH1",
+         "key": "weatherStationLongitude",
+         "value": "-96.414561"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH4",
+         "key": "weatherStationLatitude",
+         "value": "41.159394"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NEH4",
+         "key": "weatherStationLongitude",
+         "value": "-96.414561"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYH2",
+         "key": "weatherStationLatitude",
+         "value": "42.7328868"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYH2",
+         "key": "weatherStationLongitude",
+         "value": "-76.6520083"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYH3",
+         "key": "weatherStationLatitude",
+         "value": "42.723533"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYH3",
+         "key": "weatherStationLongitude",
+         "value": "-76.656415"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYI2",
+         "key": "weatherStationLatitude",
+         "value": "42.723533"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "NYI2",
+         "key": "weatherStationLongitude",
+         "value": "-76.656415"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "OHH1",
+         "key": "weatherStationLatitude",
+         "value": "39.855359"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "OHH1",
+         "key": "weatherStationLongitude",
+         "value": "-83.665356"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ONH2",
+         "key": "weatherStationLatitude",
+         "value": "42.453461"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ONH2",
+         "key": "weatherStationLongitude",
+         "value": "-81.882117"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ONH1",
+         "key": "weatherStationLatitude",
+         "value": "43.498449"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "ONH1",
+         "key": "weatherStationLongitude",
+         "value": "-80.4489"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "SDH1",
+         "key": "weatherStationLatitude",
+         "value": "44.208912"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "SDH1",
+         "key": "weatherStationLongitude",
+         "value": "-102.929751"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXH1",
+         "key": "weatherStationLatitude",
+         "value": "30.546919"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXH1",
+         "key": "weatherStationLongitude",
+         "value": "-96.434358"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXI1",
+         "key": "weatherStationLatitude",
+         "value": "30.546919"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXI1",
+         "key": "weatherStationLongitude",
+         "value": "-96.434358"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXI2",
+         "key": "weatherStationLatitude",
+         "value": "30.546919"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "TXI2",
+         "key": "weatherStationLongitude",
+         "value": "-96.434358"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WIH1",
+         "key": "weatherStationLatitude",
+         "value": "43.05619"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WIH1",
+         "key": "weatherStationLongitude",
+         "value": "-89.332619"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WIH2",
+         "key": "weatherStationLatitude",
+         "value": "43.326583"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WIH2",
+         "key": "weatherStationLongitude",
+         "value": "-89.332619"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WII1",
+         "key": "weatherStationLatitude",
+         "value": "43.05619"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WII1",
+         "key": "weatherStationLongitude",
+         "value": "-89.332619"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WII2",
+         "key": "weatherStationLatitude",
+         "value": "43.326583"
+      }
+   },
+   {
+      "model": "jsonapi.LocationAdditionalInfo",
+      "fields": {
+         "cropDbId": "maize",
+         "locationDbId": "WII2",
+         "key": "weatherStationLongitude",
+         "value": "-89.332619"
+      }
+   }
+]
